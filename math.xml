@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"
+     style="position:fixed;top:0;left:0;width:100%;height:100%;" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5MzgxNmMwYi1iNDY2LTQyOGItYTA4Yi0xODViNmYyNDdkODYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPal4XcDVO+212g2iXwIFBwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYjQwYWY2NC1jNjY4LTQ0ZmQtOTZmMy1mZGUzOTIwMTdiMTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWcCxLiJDthrFhUJjOUmlpAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggcqT0Bz9kkLa+UeUsgt743gsEhw+PDEPX5GEmqVyAe5ukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIrH3SaaBrfKYTY1JN0l8AcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAWqxhW9sG4WAfIIcxGpg+RBI+1NWh5Fgca3bvfay3LOmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjqZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjkzODE2YzBiLWI0NjYtNDI4Yi1hMDhiLTE4NWI2ZjI0N2Q4Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQ4YmU2MTM0LTliMWEtNGIxYi05YmEwLTc0YTliMzIyMDc1MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBypPQHP2SQtr5R5SyC3vjeCwSHD48MQ9fkYSapXIB7m6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnRleBbxwevDtpb/8JpmV7iAJ2+GyLZ+660gZA0F3wTKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggIJAzcgzgFbzuR46Tz0x6NJ9C+tYCrlZ/G/gdyuKKp1x0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJeuMrJizDTV3enl/iTMJpUzZwnXpSjL61SlGyHs5TMTlwTwc7QYQ61VZLrPWa5h+s/E4x0nh+wU1BSgGG7CLR4=</c2pa:manifest></metadata>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;width:100%;height:100%;overflow-y:auto;overflow-x:hidden;">
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --blue:#2563eb;--purple:#7c3aed;--navy:#0f1f45;
+  --text:#172033;--muted:#5c6a84;--light:#f4f7ff;
+  --white:#fff;--border:#e4eaf5;
+  --grad:linear-gradient(135deg,#2563eb,#7c3aed);
+}
+body{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--text);background:var(--white);}
+
+/* ── NAV ── */
+nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);height:68px;display:flex;align-items:center;padding:0 clamp(16px,5vw,72px);}
+.nav-inner{width:100%;max-width:1160px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:16px;}
+.logo{display:flex;align-items:center;gap:10px;font-weight:850;font-size:17px;letter-spacing:-.04em;color:var(--text);white-space:nowrap;}
+.logo-mark{display:grid;place-items:center;width:38px;height:38px;border-radius:11px;background:var(--grad);color:#fff;font-size:20px;font-weight:900;box-shadow:0 6px 16px #4338ca30;}
+.nav-links{display:flex;align-items:center;gap:4px;}
+.nav-links a{padding:8px 13px;border-radius:10px;font-size:13px;font-weight:600;color:var(--muted);text-decoration:none;transition:background .15s,color .15s;}
+.nav-links a:hover{background:#eef2ff;color:var(--blue);}
+.nav-cta{padding:9px 18px;border-radius:10px;background:var(--grad);color:#fff;font-size:13px;font-weight:800;border:none;cursor:pointer;box-shadow:0 4px 14px #4338ca30;white-space:nowrap;transition:opacity .15s;}
+.nav-cta:hover{opacity:.88;}
+
+/* ── HERO ── */
+.hero{background:linear-gradient(145deg,#0c1a3e 0%,#1a3282 55%,#4a2ea8 100%);color:#fff;padding:clamp(64px,10vh,110px) clamp(20px,6vw,80px);}
+.hero-inner{max-width:1160px;margin:0 auto;display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:center;}
+.hero-badge{display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:100px;padding:5px 14px 5px 8px;font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#c5d6ff;margin-bottom:22px;}
+.badge-dot{width:8px;height:8px;border-radius:50%;background:#67e8f9;box-shadow:0 0 8px #67e8f9;}
+.hero h1{font-size:clamp(36px,5.5vw,66px);line-height:1.03;letter-spacing:-.055em;font-weight:900;max-width:580px;}
+.hero h1 em{font-style:normal;background:linear-gradient(90deg,#7dd3fc,#a78bfa);-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+.hero-sub{margin:20px 0 36px;color:#c5d0e8;font-size:16px;line-height:1.7;max-width:460px;}
+.hero-actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;}
+.btn-primary{display:inline-flex;align-items:center;gap:9px;padding:14px 26px;border-radius:13px;background:#fff;color:#1e3a8a;font-size:14px;font-weight:800;border:none;cursor:pointer;box-shadow:0 8px 24px rgba(0,0,0,.25);transition:transform .15s,box-shadow .15s;letter-spacing:-.01em;}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 14px 32px rgba(0,0,0,.3);}
+.btn-primary:active{transform:none;}
+.btn-outline{display:inline-flex;align-items:center;gap:8px;padding:14px 22px;border-radius:13px;border:1.5px solid rgba(255,255,255,.35);color:#fff;background:rgba(255,255,255,.08);font-size:14px;font-weight:700;cursor:pointer;transition:background .15s;}
+.btn-outline:hover{background:rgba(255,255,255,.15);}
+.hero-art{position:relative;display:flex;justify-content:center;align-items:center;}
+.big-orb{width:clamp(180px,20vw,270px);aspect-ratio:1;border-radius:40px;background:linear-gradient(145deg,#a5f3fc,#c4b5fd 55%,#f9a8d4);display:grid;place-items:center;font-size:clamp(70px,9vw,110px);font-weight:900;color:#1e3a8a;box-shadow:0 30px 70px rgba(0,0,0,.45);transform:rotate(-6deg);}
+.float-badge{position:absolute;background:#fff;border-radius:16px;box-shadow:0 12px 30px rgba(0,0,0,.3);display:grid;place-items:center;font-weight:900;color:#1e3a8a;}
+.fb1{width:54px;height:54px;font-size:22px;top:10px;left:calc(50% - 160px);border-radius:16px;}
+.fb2{width:54px;height:54px;font-size:22px;right:calc(50% - 160px);top:22%;border-radius:16px;}
+.fb3{width:54px;height:54px;font-size:22px;bottom:4px;left:calc(50% - 140px);border-radius:16px;}
+.hero-stats{display:flex;gap:28px;margin-top:40px;flex-wrap:wrap;}
+.stat{display:flex;flex-direction:column;gap:2px;}
+.stat-num{font-size:22px;font-weight:900;color:#fff;}
+.stat-label{font-size:11px;font-weight:700;color:#8da4d8;letter-spacing:.06em;text-transform:uppercase;}
+
+/* ── STATUS BAR ── */
+#launch-status{text-align:center;padding:12px;font-size:12px;color:var(--muted);min-height:0;transition:all .3s;}
+
+/* ── SECTION HEADERS ── */
+.section{padding:clamp(56px,8vh,96px) clamp(20px,6vw,80px);}
+.section-inner{max-width:1160px;margin:0 auto;}
+.section-label{font-size:11px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--blue);margin-bottom:10px;}
+.section-title{font-size:clamp(26px,3.5vw,40px);font-weight:850;letter-spacing:-.04em;color:var(--text);max-width:560px;line-height:1.15;}
+.section-sub{margin-top:12px;color:var(--muted);font-size:15px;line-height:1.65;max-width:500px;}
+
+/* ── SUBJECTS ── */
+.subjects{background:var(--light);}
+.subject-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:40px;}
+.subject-card{background:#fff;border:1px solid var(--border);border-radius:22px;padding:24px;box-shadow:0 6px 20px #17255406;transition:transform .2s,box-shadow .2s;cursor:default;}
+.subject-card:hover{transform:translateY(-4px);box-shadow:0 16px 36px #17255412;}
+.s-icon{width:48px;height:48px;border-radius:14px;display:grid;place-items:center;font-size:22px;margin-bottom:18px;}
+.s-alg .s-icon{background:#eef2ff;color:#2563eb;}
+.s-geo .s-icon{background:#f3edff;color:#7c3aed;}
+.s-num .s-icon{background:#ecfdf5;color:#059669;}
+.s-calc .s-icon{background:#fff7ed;color:#d97706;}
+.s-stat .s-icon{background:#fdf2f8;color:#db2777;}
+.s-trig .s-icon{background:#f0f9ff;color:#0284c7;}
+.subject-card h3{font-size:16px;font-weight:800;letter-spacing:-.025em;margin-bottom:8px;}
+.subject-card p{font-size:13px;color:var(--muted);line-height:1.6;margin-bottom:16px;}
+.s-tag{display:inline-flex;padding:6px 11px;border-radius:8px;background:var(--light);color:var(--blue);font-size:11px;font-weight:800;}
+
+/* ── HOW IT WORKS ── */
+.steps-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:44px;}
+.step{display:flex;flex-direction:column;gap:14px;padding:28px;border:1px solid var(--border);border-radius:22px;background:#fff;box-shadow:0 4px 18px #17255405;}
+.step-num{width:40px;height:40px;border-radius:12px;background:var(--grad);color:#fff;font-size:17px;font-weight:900;display:grid;place-items:center;box-shadow:0 4px 14px #4338ca30;}
+.step h3{font-size:16px;font-weight:800;letter-spacing:-.02em;}
+.step p{font-size:13px;color:var(--muted);line-height:1.6;}
+
+/* ── TESTIMONIALS ── */
+.testi-bg{background:linear-gradient(160deg,#0c1a3e,#1c3082);}
+.testi-bg .section-label{color:#93c5fd;}
+.testi-bg .section-title{color:#fff;}
+.testi-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:40px;}
+.testi{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);border-radius:20px;padding:24px;}
+.stars{color:#fbbf24;font-size:14px;margin-bottom:12px;letter-spacing:2px;}
+.testi blockquote{font-size:14px;color:#d5def7;line-height:1.65;font-style:italic;margin-bottom:18px;}
+.testi-author{display:flex;align-items:center;gap:10px;}
+.avatar{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;font-size:15px;font-weight:800;color:#fff;}
+.av1{background:linear-gradient(135deg,#f43f5e,#ec4899);}
+.av2{background:linear-gradient(135deg,#8b5cf6,#6366f1);}
+.av3{background:linear-gradient(135deg,#0ea5e9,#06b6d4);}
+.author-name{font-size:13px;font-weight:700;color:#fff;}
+.author-role{font-size:11px;color:#8da4d8;}
+
+/* ── CTA STRIP ── */
+.cta-strip{background:var(--light);border-top:1px solid var(--border);border-bottom:1px solid var(--border);}
+.cta-inner{max-width:1160px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;padding:clamp(36px,5vh,56px) clamp(20px,6vw,80px);}
+.cta-text h2{font-size:clamp(22px,3vw,34px);font-weight:850;letter-spacing:-.04em;}
+.cta-text p{color:var(--muted);font-size:14px;margin-top:8px;line-height:1.6;}
+.cta-btn{display:inline-flex;align-items:center;gap:10px;padding:15px 30px;border-radius:14px;background:var(--grad);color:#fff;font-size:15px;font-weight:800;border:none;cursor:pointer;box-shadow:0 8px 24px #4338ca35;white-space:nowrap;transition:opacity .15s,transform .15s;}
+.cta-btn:hover{opacity:.9;transform:translateY(-2px);}
+.cta-btn:active{transform:none;}
+
+/* ── FOOTER ── */
+footer{background:var(--navy);color:#8da4d8;padding:clamp(40px,6vh,64px) clamp(20px,6vw,80px) 28px;}
+.footer-inner{max-width:1160px;margin:0 auto;}
+.footer-top{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:40px;padding-bottom:40px;border-bottom:1px solid rgba(255,255,255,.08);}
+.footer-brand p{font-size:13px;line-height:1.7;margin-top:12px;max-width:240px;}
+.footer-col h4{font-size:13px;font-weight:800;color:#fff;letter-spacing:.04em;text-transform:uppercase;margin-bottom:14px;}
+.footer-col a{display:block;font-size:13px;color:#8da4d8;text-decoration:none;margin-bottom:9px;transition:color .15s;}
+.footer-col a:hover{color:#c5d0e8;}
+.footer-bottom{display:flex;justify-content:space-between;align-items:center;padding-top:22px;font-size:12px;flex-wrap:wrap;gap:10px;}
+.footer-bottom a{color:#8da4d8;text-decoration:none;}
+.footer-bottom a:hover{color:#c5d0e8;}
+
+/* ── RESPONSIVE ── */
+@media(max-width:900px){
+  .hero-inner{grid-template-columns:1fr;}.hero-art{display:none;}
+  .subject-grid{grid-template-columns:repeat(2,1fr);}
+  .steps-grid{grid-template-columns:1fr;}
+  .testi-grid{grid-template-columns:1fr;}
+  .footer-top{grid-template-columns:1fr 1fr;}
+  .nav-links{display:none;}
+}
+@media(max-width:580px){
+  .subject-grid{grid-template-columns:1fr;}
+  .footer-top{grid-template-columns:1fr;}
+  .cta-inner{flex-direction:column;align-items:flex-start;}
+}
+</style>
+
+<!-- ── NAV ── -->
+<nav>
+  <div class="nav-inner">
+    <div class="logo">
+      <div class="logo-mark">4</div>
+      <span>4 Math Tutoring</span>
+    </div>
+    <div class="nav-links">
+      <a href="#">Home</a>
+      <a href="#">Subjects</a>
+      <a href="#">How It Works</a>
+      <a href="#">Pricing</a>
+      <a href="#">About</a>
+    </div>
+    <button class="nav-cta" id="nav-launch-btn">Open Tutoring Site →</button>
+  </div>
+</nav>
+
+<!-- ── HERO ── -->
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="hero-badge"><span class="badge-dot"></span> Free · Interactive · No signup needed</div>
+      <h1>Math made <em>clearer.</em><br/>Confidence made stronger.</h1>
+      <p class="hero-sub">Explore interactive lessons, sharpen problem-solving skills, and finally take the mystery out of math — one concept at a time.</p>
+      <div class="hero-actions">
+        <button class="btn-primary" id="hero-launch-btn">
+          <span>📚</span> Open Tutoring Site
+        </button>
+        <button class="btn-outline">See how it works</button>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><span class="stat-num">6+</span><span class="stat-label">Subject areas</span></div>
+        <div class="stat"><span class="stat-num">100%</span><span class="stat-label">Free to use</span></div>
+        <div class="stat"><span class="stat-num">All ages</span><span class="stat-label">Middle → College</span></div>
+      </div>
+    </div>
+    <div class="hero-art">
+      <div class="big-orb">∑</div>
+      <div class="float-badge fb1">π</div>
+      <div class="float-badge fb2">÷</div>
+      <div class="float-badge fb3">x²</div>
+    </div>
+  </div>
+</section>
+
+<div id="launch-status"></div>
+
+<!-- ── SUBJECTS ── -->
+<section class="section subjects">
+  <div class="section-inner">
+    <p class="section-label">What we cover</p>
+    <h2 class="section-title">Find your focus area</h2>
+    <p class="section-sub">Pick a subject and start building your skills with lessons designed to actually make sense.</p>
+    <div class="subject-grid">
+      <div class="subject-card s-alg">
+        <div class="s-icon">＋</div>
+        <h3>Algebra Essentials</h3>
+        <p>Make expressions, equations, and variables feel intuitive. From basics to advanced functions.</p>
+        <span class="s-tag">Explore algebra →</span>
+      </div>
+      <div class="subject-card s-geo">
+        <div class="s-icon">△</div>
+        <h3>Geometry Lab</h3>
+        <p>Discover shapes, angles, area, proofs, and the spatial patterns that show up everywhere.</p>
+        <span class="s-tag">Explore geometry →</span>
+      </div>
+      <div class="subject-card s-num">
+        <div class="s-icon">％</div>
+        <h3>Numbers &amp; Skills</h3>
+        <p>Master fractions, percentages, ratios, and the everyday calculations you actually need.</p>
+        <span class="s-tag">Build skills →</span>
+      </div>
+      <div class="subject-card s-calc">
+        <div class="s-icon">∫</div>
+        <h3>Pre-Calculus</h3>
+        <p>Build the foundation you need — limits, functions, and everything that leads up to calculus.</p>
+        <span class="s-tag">Explore pre-calc →</span>
+      </div>
+      <div class="subject-card s-stat">
+        <div class="s-icon">📊</div>
+        <h3>Statistics</h3>
+        <p>Understand data, probability, and the math behind real-world analysis and decision making.</p>
+        <span class="s-tag">Explore stats →</span>
+      </div>
+      <div class="subject-card s-trig">
+        <div class="s-icon">〜</div>
+        <h3>Trigonometry</h3>
+        <p>Angles, sine, cosine, the unit circle — brought to life with interactive visuals and practice.</p>
+        <span class="s-tag">Explore trig →</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── HOW IT WORKS ── -->
+<section class="section">
+  <div class="section-inner">
+    <p class="section-label">The process</p>
+    <h2 class="section-title">Three steps to finally getting it</h2>
+    <p class="section-sub">No account needed, no paywalls, no fluff. Just click, learn, and practice.</p>
+    <div class="steps-grid">
+      <div class="step">
+        <div class="step-num">1</div>
+        <h3>Open the site</h3>
+        <p>Hit the "Open Tutoring Site" button and the full interactive site loads instantly in a new tab — no installs, no sign-up required.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <h3>Pick your topic</h3>
+        <p>Browse by subject or search for a specific concept. Lessons are organized by difficulty so you always know where to start.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <h3>Practice &amp; improve</h3>
+        <p>Work through interactive problems, check your understanding, and move at your own pace until the concept clicks.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── TESTIMONIALS ── -->
+<section class="section testi-bg">
+  <div class="section-inner">
+    <p class="section-label">What students say</p>
+    <h2 class="section-title" style="color:#fff;">Real results, real students</h2>
+    <div class="testi-grid">
+      <div class="testi">
+        <div class="stars">★★★★★</div>
+        <blockquote>"I failed my algebra midterm and came here out of desperation. The explanations actually make sense — I passed my final with a B+."</blockquote>
+        <div class="testi-author">
+          <div class="avatar av1">J</div>
+          <div><div class="author-name">Jordan M.</div><div class="author-role">10th grade student</div></div>
+        </div>
+      </div>
+      <div class="testi">
+        <div class="stars">★★★★★</div>
+        <blockquote>"My son was struggling with geometry. We bookmarked this site and he's now ahead of his class. The visual approach really works for him."</blockquote>
+        <div class="testi-author">
+          <div class="avatar av2">S</div>
+          <div><div class="author-name">Sarah T.</div><div class="author-role">Parent of 8th grader</div></div>
+        </div>
+      </div>
+      <div class="testi">
+        <div class="stars">★★★★★</div>
+        <blockquote>"Used this to review before my college placement test. Ended up placing into Calc II instead of remedial math. Highly recommend."</blockquote>
+        <div class="testi-author">
+          <div class="avatar av3">A</div>
+          <div><div class="author-name">Alex R.</div><div class="author-role">College freshman</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA STRIP ── -->
+<div class="cta-strip">
+  <div class="cta-inner">
+    <div class="cta-text">
+      <h2>Ready to make math click?</h2>
+      <p>Open the tutoring site in one click — no account, completely free.</p>
+    </div>
+    <button class="cta-btn" id="cta-launch-btn">
+      <span>📚</span> Open Tutoring Site
+    </button>
+  </div>
+</div>
+
+<!-- ── FOOTER ── -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <div class="logo" style="color:#fff;">
+          <div class="logo-mark">4</div>
+          <span>4 Math Tutoring</span>
+        </div>
+        <p>Helping students of all ages understand math through clear explanations and interactive practice.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Subjects</h4>
+        <a href="#">Algebra</a>
+        <a href="#">Geometry</a>
+        <a href="#">Pre-Calculus</a>
+        <a href="#">Statistics</a>
+        <a href="#">Trigonometry</a>
+      </div>
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <a href="#">Practice problems</a>
+        <a href="#">Study guides</a>
+        <a href="#">Formula sheets</a>
+        <a href="#">Video lessons</a>
+      </div>
+      <div class="footer-col">
+        <h4>About</h4>
+        <a href="#">Our mission</a>
+        <a href="#">Contact</a>
+        <a href="#">Privacy policy</a>
+        <a href="#">Terms of use</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2025 4 Math Tutoring · Learn at your own pace.</span>
+      <span>Small steps. Big progress.</span>
+    </div>
+  </div>
+</footer>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function () {
+  // ── CONFIG: add as many fallback URLs as you like ──────────────────
+  // pageUrls: tried in order until one returns a 2xx response
+  var pageUrls = [
+    'https://cdn.jsdelivr.net/gh/electricxmaxx/devtest/math.html',
+    'https://cdn.statically.io/gh/4gamess/html-school-delivery/main/studying.html',
+    'https://raw.githack.com/4gamescontacting-alt/tutoring-htmlsite/main/afsdfds.html',
+'https://cdn.gitdelivr.in/gh/4gamess/html-school-delivery/main/studying.html',
+'https://github.ednovas.xyz/https://raw.githubusercontent.com/4gamess/html-school-delivery/main/studying.html'
+  ];
+
+  // repoUrls: tried in order for the games JSON + BASE_URL
+  var repoUrls = [
+    'https://cdn.jsdelivr.net/gh/electricxmaxx/mathassignments@master',
+    'https://cdn.statically.io/gh/4gamescontacting-alt/4mathtutoring-cards/master',
+    'https://raw.githack.com/4gamescontacting-alt/4mathtutoring-cards/master'
+  ];
+  // ────────────────────────────────────────────────────────────────────
+
+  // Try each URL in the array in sequence; resolve with {url, text/json}
+  // on the first 2xx, reject only when all have failed.
+  function tryFetchText(urls, attempt) {
+    attempt = attempt || 0;
+    if (attempt >= urls.length) {
+      return Promise.reject(new Error('All ' + urls.length + ' URL(s) failed for: ' + urls[0]));
+    }
+    return fetch(urls[attempt]).then(function(r) {
+      if (r.ok) return { url: urls[attempt], data: r.text() };
+      throw new Error('HTTP ' + r.status + ' from ' + urls[attempt]);
+    }).then(function(obj) {
+      return obj.data.then(function(text) { return { url: obj.url, data: text }; });
+    }).catch(function(err) {
+      console.warn('[fallback] ' + err.message + ' — trying next…');
+      return tryFetchText(urls, attempt + 1);
+    });
+  }
+
+  function tryFetchJson(urls, attempt) {
+    attempt = attempt || 0;
+    if (attempt >= urls.length) {
+      return Promise.reject(new Error('All ' + urls.length + ' URL(s) failed for games.json'));
+    }
+    var url = urls[attempt] + '/math.json';
+    return fetch(url).then(function(r) {
+      if (r.ok) return { url: urls[attempt], data: r.json() };
+      throw new Error('HTTP ' + r.status + ' from ' + url);
+    }).then(function(obj) {
+      return obj.data.then(function(json) { return { url: obj.url, data: json }; });
+    }).catch(function(err) {
+      console.warn('[fallback] ' + err.message + ' — trying next…');
+      return tryFetchJson(urls, attempt + 1);
+    });
+  }
+
+  function init() {
+    var statusEl = document.getElementById('launch-status');
+    var btnIds   = ['hero-launch-btn','nav-launch-btn','cta-launch-btn'];
+
+    function setLoading(on) {
+      btnIds.forEach(function(id){
+        var b = document.getElementById(id);
+        if (!b) return;
+        b.disabled = on;
+        b.style.opacity = on ? '.55' : '1';
+      });
+    }
+
+    function launch() {
+      setLoading(true);
+      statusEl.textContent = 'Loading tutoring site…';
+      statusEl.style.color = '';
+
+      Promise.all([
+        tryFetchText(pageUrls),
+        tryFetchJson(repoUrls)
+      ]).then(function(results){
+        var html  = results[0].data;
+        var REPO  = results[1].url;
+        var games = results[1].data;
+
+        html = html.replace(
+          /window\.__cachedGameList\s*=\s*\[[\s\S]*?\];/,
+          'window.__cachedGameList = ' + JSON.stringify(games) + ';'
+        );
+        html = html.replace(/window\.GAMES_API\s*=\s*['"][^'"]*['"]/, "window.GAMES_API = ''");
+        html = html.replace(/var BASE_URL\s*=\s*['"][^'"]*['"]/, "var BASE_URL = '" + REPO + "'");
+        html = html.replace("BASE_URL + '/games/' + game.url", "BASE_URL + '/' + game.url");
+
+        var newLoadIntoIframe = [
+          'function loadIntoIframe(url){',
+          '  fetch(url).then(function(r){return r.text();}).then(function(t){',
+          '    var base=url.replace(/[^/]+$/,"");',
+          '    var dq=\'"\', sq="\'";',
+          '    t=t.replace(/(src|href|action)(\\s*=\\s*")((?!https?:|data:|blob:|#|\\/\\/)([^"]*))/gi,function(m,a,eq,p){return a+eq+base+p;});',
+          '    t=t.replace(/(src|href|action)(\\s*=\\s*\')((?!https?:|data:|blob:|#|\\/\\/)([^\']*))/gi,function(m,a,eq,p){return a+eq+base+p;});',
+          '    var blob=new Blob([t],{type:"text/html"});',
+          '    document.getElementById("fg-iframe").src=URL.createObjectURL(blob);',
+          '  }).catch(function(){document.getElementById("fg-iframe").src=url;});',
+          '}'
+        ].join('\n');
+        html = html.replace(
+          /function loadIntoIframe\(url\)\s*\{[\s\S]*?document\.getElementById\('fg-iframe'\)\.src = url;\s*\}\s*\}/,
+          newLoadIntoIframe
+        );
+
+        html = html.replace(/href="\/ai\.html"/g,   'href="https://levitator-lagging-dynamic.ngrok-free.dev/ai.html"');
+        html = html.replace(/href="\/chat\.html"/g, 'href="https://levitator-lagging-dynamic.ngrok-free.dev/chat.html"');
+
+        html = html.replace(
+          'window.fgOpen = function(gameUrl, title) {',
+          'window.fgOpen = function(gameUrl, title) {\n' +
+          '    if (/ngrok-free\\.dev/i.test(gameUrl)) {\n' +
+          '      document.getElementById("fg-title").textContent = title || "game";\n' +
+          '      document.getElementById("fg-loading").style.display = "none";\n' +
+          '      document.getElementById("fg-viewer").classList.add("open");\n' +
+          '      document.body.style.overflow = "hidden";\n' +
+          '      document.getElementById("fg-iframe").src = gameUrl;\n' +
+          '      return;\n' +
+          '    }'
+        );
+
+        html = html.replace(
+          /window\.fgDownload\s*=\s*function\s*\(\)\s*\{[\s\S]*?\};/,
+          'window.fgDownload=function(){if(!currentGameUrl)return;fetch(currentGameUrl).then(function(r){return r.text();}).then(function(t){var b=new Blob([t],{type:"text/html"});var a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=(currentTitle||"game")+".html";a.click();});};'
+        );
+
+        html = html.replace(
+          'window.fgOpenGameTab = function() {\n    if (currentGameUrl) window.open(currentGameUrl, \'_blank\');\n  };',
+          'window.fgOpenGameTab=function(){if(!currentGameUrl)return;var w=window.open("about:blank","_blank");fetch(currentGameUrl).then(function(r){return r.text();}).then(function(t){w.document.open();w.document.write(t);w.document.close();});};'
+        );
+
+        var resolvedPageUrl = results[0].url;
+        var base = '<base href="' + resolvedPageUrl + '">';
+        if (!/<base\b/i.test(html)) {
+          html = /<head[\s>]/i.test(html)
+            ? html.replace(/(<head[^>]*>)/i, '$1' + base)
+            : '<head>' + base + '</head>' + html;
+        }
+
+        var w = window.open('about:blank', '_blank');
+        if (!w) {
+          statusEl.textContent = '⚠ Pop-up blocked — please allow pop-ups and try again.';
+          statusEl.style.color = '#dc2626';
+          setLoading(false);
+          return;
+        }
+        w.document.open();
+        w.document.write(html);
+        w.document.close();
+        var src = results[0].url !== pageUrls[0] ? ' (fallback used)' : '';
+        statusEl.textContent = src;
+        setLoading(false);
+      }).catch(function(err){
+        statusEl.textContent = '⚠ All sources failed: ' + err.message;
+        statusEl.style.color = '#dc2626';
+        setLoading(false);
+      });
+    }
+
+    btnIds.forEach(function(id){
+      var b = document.getElementById(id);
+      if (b) b.addEventListener('click', launch);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+//]]>
+</script>
+    </body>
+  </foreignObject>
+</svg>
