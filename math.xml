@@ -352,18 +352,18 @@ footer{background:var(--navy);color:#8da4d8;padding:clamp(40px,6vh,64px) clamp(2
   // ── CONFIG: add as many fallback URLs as you like ──────────────────
   // pageUrls: tried in order until one returns a 2xx response
   var pageUrls = [
-    'https://cdn.jsdelivr.net/gh/electricxmaxx/devtest/math.html',
-    'https://cdn.statically.io/gh/4gamess/html-school-delivery/main/studying.html',
-    'https://raw.githack.com/4gamescontacting-alt/tutoring-htmlsite/main/afsdfds.html',
-'https://cdn.gitdelivr.in/gh/4gamess/html-school-delivery/main/studying.html',
-'https://github.ednovas.xyz/https://raw.githubusercontent.com/4gamess/html-school-delivery/main/studying.html'
+    'https://cdn.jsdelivr.net/gh/learningapi/learning-html@main/math.html',
+    'https://cdn.statically.io/gh/learningapi/learning-html/main/math.html',
+    'https://raw.githack.com/learningapi/learning-html/main/math.html',
+'https://cdn.gitdelivr.in/gh/learningapi/learning-html/main/math.html',
+'https://github.ednovas.xyz/https://raw.githubusercontent.com/learningapi/learning-html/main/math.html'
   ];
 
   // repoUrls: tried in order for the games JSON + BASE_URL
   var repoUrls = [
-    'https://cdn.jsdelivr.net/gh/electricxmaxx/mathassignments@master',
-    'https://cdn.statically.io/gh/4gamescontacting-alt/4mathtutoring-cards/master',
-    'https://raw.githack.com/4gamescontacting-alt/4mathtutoring-cards/master'
+    'https://cdn.jsdelivr.net/gh/learningapi/mathassignments@master',
+    'https://cdn.statically.io/gh/learningapi/mathassignments/master',
+    'https://raw.githack.com/learningapi/mathassignments/master'
   ];
   // ────────────────────────────────────────────────────────────────────
 
